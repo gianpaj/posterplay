@@ -31,5 +31,5 @@ API and Tech used
 
 Authors by
 --
-* Gianfranco - @gianpaj
-* Alexander
+* Gianfranco - [gianpaj](http://github.com/gianpaj)
+* Alexander - [adkomyagin](http://github.com/adkomyagin)
