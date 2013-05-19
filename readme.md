@@ -7,7 +7,10 @@ We hacked this in 24 hours at the TechCrunch 2013 NY Hackathon!
 
 The app needs, at the moment, a backend server to store the picture and to hack the request to Google.
 
-I'll add the code to this repository soon.
+I'll add the code to this repository soon(ish).
+
+Slide presentation from our 1 min pitch:
+[speakerdeck.com/gianpaj/posterplay-techcrunch-disrupt-2013-nyc-hackathon](https://speakerdeck.com/gianpaj/posterplay-techcrunch-disrupt-2013-nyc-hackathon)
 
 Build
 --
